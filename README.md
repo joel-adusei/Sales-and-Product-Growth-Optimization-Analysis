@@ -39,3 +39,25 @@ As NouraMart Consumer Goods expands across Nigeria, the company needs greater vi
 **Recommendations:** Provide business recommendations based on the analysis.
 
 ## DATA ANALYSIS
+
+This query retrieves key information from NouraMart's sales dataset, including order details, product information, and customer demographics. It captures important metrics such as order dates, quantities sold, selling prices, revenue, profit, product categories, customer locations, gender, and age groups. By consolidating these business-critical variables, the query provides a comprehensive overview of sales activities, product performance, and customer characteristics, forming the foundation for further analysis and data-driven decision-making at NouraMart.
+
+
+This query identifies the cities from which NouraMart receives orders and evaluates the total profit generated from each location. By grouping sales data by customer city and calculating the summed profit, it highlights the most profitable cities and ranks them based on their contribution to overall business performance. This provides valuable insight into geographic profitability and supports data-driven decisions for targeted sales, marketing, and resource allocation strategies.
+
+
+
+This query presents the data output of the various product categories available at Nouramart, highlighting a total of six distinct categories. By showcasing these categories, the query provides insights into the product diversity within the store, allowing for a better understanding of inventory composition and potential areas for growth or optimization in product offerings.
+
+
+
+This query outputs the product categories along with the corresponding number of products in each category. The results reveal that Accessories leads with the highest count of 458 products, followed by Games, while Electronics has the lowest count with 272 products. This analysis offers valuable insights into the distribution of products across categories, helping to identify areas of focus for inventory optimization and potential adjustments in product availability.
+
+
+This query displays the average price of products in each category, revealing that Accessories has the highest average price at £10622, followed by Electronics. In contrast, Games has the lowest average price at £10400, largely due to the quantity and nature of products in that category. This analysis provides insights into price distribution across categories, helping to understand the value of products offered and informing pricing and inventory strategies.
+
+
+This query displays the total quantity of products ordered in 2025, revealing that 10,976 products were ordered were ordered in 2025. This analysis providing valuable insights into sales trends and help to forecast future inventory needs.
+
+
+This query evaluates whether a product's price is more than £10,000 creating a new column that indicates if a product is "Above 10,000" or "Below or Equal to 10,000." This classification provides a clear view of the distribution of high-value versus more affordable products, aiding in pricing strategy and product segmentation.
