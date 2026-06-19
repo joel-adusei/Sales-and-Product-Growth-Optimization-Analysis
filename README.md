@@ -1,6 +1,5 @@
 ## NOURAMART SALES OPTIMIZATION ANALYSIS
 
-
 ## Leveraging SQL Data Query Language for Data-Driven Analysis of Sales and Product Performance at Dennies Furnishing Supplies
 
 ![image](https://github.com/joel-adusei/Sales-and-Product-Growth-Optimization-Analysis/blob/main/assets/business-people-meeting-discussion-corporate-concept.jpg?raw=true)
