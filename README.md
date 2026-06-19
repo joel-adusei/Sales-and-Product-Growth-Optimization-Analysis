@@ -56,21 +56,37 @@ This query presents the data output of the various product categories available 
 
 
 
-This query outputs the product categories along with the corresponding number of products in each category. The results reveal that Accessories leads with the highest count of 458 products, followed by Games, while Electronics has the lowest count with 272 products. This analysis offers valuable insights into the distribution of products across categories, helping to identify areas of focus for inventory optimization and potential adjustments in product availability.
+This query outputs the product categories along with the corresponding number of products in each category. The results reveal that **Accessories** leads with the highest count of 458 products, followed by **Games**, while **Electronics** has the lowest count with 272 products. This analysis offers valuable insights into the distribution of products across categories, helping to identify areas of focus for inventory optimization and potential adjustments in product availability.
 
 ![image](https://github.com/joel-adusei/Sales-and-Product-Growth-Optimization-Analysis/blob/main/assets/Q4.JPG?raw=true)
 
 
-This query displays the average price of products in each category, revealing that Accessories has the highest average price at £10622, followed by Electronics. In contrast, Games has the lowest average price at £10400, largely due to the quantity and nature of products in that category. This analysis provides insights into price distribution across categories, helping to understand the value of products offered and informing pricing and inventory strategies.
+This query displays the average price of products in each category, revealing that **Accessories** has the highest average price at £10622, followed by **Electronics**. In contrast, **Games** has the lowest average price at £10400, largely due to the quantity and nature of products in that category. This analysis provides insights into price distribution across categories, helping to understand the value of products offered and informing pricing and inventory strategies.
 
 ![image](https://github.com/joel-adusei/Sales-and-Product-Growth-Optimization-Analysis/blob/main/assets/Q5.JPG?raw=true)
 
 
-This query displays the total quantity of products ordered in 2025, revealing that 10,976 products were ordered were ordered in 2025. This analysis providing valuable insights into sales trends and help to forecast future inventory needs.
+This query displays the total quantity of products ordered in **2025**, revealing that **10,976** products were ordered were ordered in 2025. This analysis providing valuable insights into sales trends and help to forecast future inventory needs.
 
 ![image](https://github.com/joel-adusei/Sales-and-Product-Growth-Optimization-Analysis/blob/main/assets/Q7.JPG?raw=true)
 
 
-This query evaluates whether a product's price is more than £10,000 creating a new column that indicates if a product is "Above 10,000" or "Below or Equal to 10,000." This classification provides a clear view of the distribution of high-value versus more affordable products, aiding in pricing strategy and product segmentation.
+This query evaluates whether a product's price is more than £10,000 creating a new column that indicates if a product is **"Above 10,000"** or **"Below or Equal to 10,000."** This classification provides a clear view of the distribution of high-value versus more affordable products, aiding in pricing strategy and product segmentation.
 
 ![image](https://github.com/joel-adusei/Sales-and-Product-Growth-Optimization-Analysis/blob/main/assets/Q8.JPG?raw=true)
+
+
+## RECOMMENDATIONS
+
+Based on the analysis of NouraMart’s sales, product, and customer data, several key recommendations can be made to improve business performance and support strategic decision-making.
+
+Firstly, the company should focus on strengthening its presence in high-profit cities by increasing targeted marketing efforts and improving product availability in these regions. Since certain cities generate significantly higher profit, allocating more resources such as promotions, logistics support, and stock availability to these locations will help maximize revenue.
+
+Secondly, NouraMart should review its product category distribution to ensure a more balanced inventory strategy. Categories with lower product counts or lower profitability should be assessed for potential expansion or restructuring, while high-performing categories should be further optimized and promoted.
+
+In addition, pricing strategies should be refined based on category-level insights. High-value products (above £10,000) should be strategically positioned to maximize profitability, while lower-priced products should be leveraged to attract a broader customer base and increase sales volume.
+
+Furthermore, the company should align inventory planning with demand trends, particularly the total quantity of products ordered in 2025. This will help reduce stock imbalances, prevent overstocking or stockouts, and improve operational efficiency.
+
+Finally, NouraMart should continue leveraging data analytics to monitor customer behavior, regional performance, and product trends regularly. This will ensure more accurate forecasting, better decision-making, and sustained business growth.
+
