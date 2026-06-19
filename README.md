@@ -12,7 +12,7 @@ Disclaimer⚠️: All info and reports in this repository do not contain real pr
 ## INTRODUCTION
 
 This project analyzes sales performance, product distribution, and operational efficiency for NouraMart Consumer Goods, 
-a leading FMCG company in Nigeria. Using sales data across products, regions, and distribution channels, the analysis identifies business trends, evaluates performance, and generates actionable insights to support data-driven decision-making and business growth using Structured Query Language (SQL).
+a leading FMCG company in United Kingdom. Using sales data across products, regions, and distribution channels, the analysis identifies business trends, evaluates performance, and generates actionable insights to support data-driven decision-making and business growth using Structured Query Language (SQL).
 
 ## PROBLEM STATEMENT
 
