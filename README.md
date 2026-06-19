@@ -1,6 +1,5 @@
 ## NOURAMART SALES OPTIMIZATION ANALYSIS
 
-## 
 
 ## Leveraging SQL Data Query Language for Data-Driven Analysis of Sales and Product Performance at Dennies Furnishing Supplies
 
