@@ -2,7 +2,7 @@
 
 ## NOURAMART SALES OPTIMIZATION ANALYSIS
 
-![image]()
+![image](https://github.com/joel-adusei/Sales-and-Product-Growth-Optimization-Analysis/blob/main/assets/business-people-meeting-discussion-corporate-concept.jpg?raw=true)
 
 
 
